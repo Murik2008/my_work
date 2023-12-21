@@ -1,0 +1,14 @@
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/bin/Debug/net8.0/File 1
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/bin/Debug/net8.0/File 1.deps.json
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/bin/Debug/net8.0/File 1.runtimeconfig.json
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/bin/Debug/net8.0/File 1.dll
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/bin/Debug/net8.0/File 1.pdb
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/obj/Debug/net8.0/File 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/obj/Debug/net8.0/File 1.AssemblyInfoInputs.cache
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/obj/Debug/net8.0/File 1.AssemblyInfo.cs
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/obj/Debug/net8.0/File 1.csproj.CoreCompileInputs.cache
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/obj/Debug/net8.0/File 1.dll
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/obj/Debug/net8.0/refint/File 1.dll
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/obj/Debug/net8.0/File 1.pdb
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/obj/Debug/net8.0/File 1.genruntimeconfig.cache
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/obj/Debug/net8.0/ref/File 1.dll
