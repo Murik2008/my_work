@@ -12,3 +12,4 @@
 /Users/ramilbagirov/Desktop/Murad/C#/File 1/obj/Debug/net8.0/File 1.pdb
 /Users/ramilbagirov/Desktop/Murad/C#/File 1/obj/Debug/net8.0/File 1.genruntimeconfig.cache
 /Users/ramilbagirov/Desktop/Murad/C#/File 1/obj/Debug/net8.0/ref/File 1.dll
+/Users/ramilbagirov/Desktop/Murad/C#/File 1/obj/Debug/net8.0/File 1.sourcelink.json
